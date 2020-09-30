@@ -22,8 +22,8 @@ npm run build --report
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Zachary Moseti
+[Zachy In Code](https://codewithzachy.netlify.com)
 
 ### Version
 
